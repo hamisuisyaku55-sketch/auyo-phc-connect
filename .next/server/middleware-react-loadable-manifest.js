@@ -1,0 +1,1 @@
+self.__REACT_LOADABLE_MANIFEST="{\"index.js -> ../components/AuyoPHCConnectDemo\":{\"id\":\"index.js -> ../components/AuyoPHCConnectDemo\",\"files\":[\"static/chunks/components_AuyoPHCConnectDemo_js.js\"]}}"
